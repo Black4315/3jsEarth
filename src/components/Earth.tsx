@@ -28,7 +28,7 @@ const Earth = () => {
 
 
     useEffect(() => {
-        const stars = getStarfield({ numStars: 1000 })
+        const stars = getStarfield({ numStars: 2000 })
 
         starsRef.current?.add(stars)
 

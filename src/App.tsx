@@ -26,6 +26,7 @@ const App: React.FC = () => {
           }}
           gl={{
             toneMapping: THREE.ACESFilmicToneMapping, 
+            // outputColorSpace:THREE.LinearSRGBColorSpace,
             antialias: true,
             alpha: true,
             powerPreference: "high-performance",
