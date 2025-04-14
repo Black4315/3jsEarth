@@ -17,8 +17,8 @@ A stunning, interactive **3D globe** created with **HTML**, **JavaScript**, and 
 - **JavaScript**
 - **Three.js**
 
-## 📄 License
-MIT License © 2025 Yahia Badr
-
 ## 🌐 Demo
 [Live Demo](https://threejsearth.web.app)
+
+## 📄 License
+MIT License © 2025 Yahia Badr
