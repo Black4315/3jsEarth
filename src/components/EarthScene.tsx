@@ -19,6 +19,7 @@ const EarthScene = () => {
                 dampingFactor={0.063} 
                 enableZoom 
                 zoomSpeed={0.5} 
+                enablePan={false}
                 maxDistance={100}
                 minDistance={2}
                 target={new THREE.Vector3(0,0,0)}
