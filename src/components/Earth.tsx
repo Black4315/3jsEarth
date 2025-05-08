@@ -43,7 +43,7 @@ const Earth = () => {
         if (lightRef.current) lightRef.current.rotation.y += 0.002;
         if (cloudRef.current) cloudRef.current.rotation.y += 0.0028;
         if (glowRef.current) glowRef.current.rotation.y += 0.002;
-        if (starsRef.current) starsRef.current.rotation.y -= 0.002;
+        if (starsRef.current) starsRef.current.rotation.y -= 0.001;
     });
 
 
